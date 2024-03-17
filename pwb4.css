@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: blue;
+        background-color: gold;
+        padding: 20px; /* menambahkan ruang di sekitar teks */
+        margin: 0 auto; /* menengahkan secara horizontal */
+        border: 1px solid blue ;
+        text-align: center; /* menengahkan teks */
+        max-width: 80%; /* membuat lebar maksimum agar responsif */
+}
+
+h4 {
+    font-size: 23px;
+    border: 2px solid red;
+    color: black;
+    padding: 20px 20px 0px 20px; 
+    margin: 0 ; 
+    text-align: left; 
+    max-width: 80%; 
+}
+
+p{
+    font-size: 18px;
+    border: 2px solid hotpink ;
+    padding: 0 ;
+    margin: 20px 0px 0px 0px;
+    text-align: left;
+}
+
+ol.list{
+    font-size: 16px;
+    border: 2px solid green;
+    padding: 0px 10px 10px 30px;
+    margin: 2px 0px 0px 0px;
+}
